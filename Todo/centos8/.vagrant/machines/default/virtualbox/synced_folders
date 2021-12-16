@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html/Todo":{"mount_options":["dmode=777,fmode=777","uid=1000","gid=1000","_netdev"],"guestpath":"/var/www/html/Todo","hostpath":"C:/Users/takuy/Todo/Todo","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/takuy/Todo/centos8","disabled":false,"__vagrantfile":true}}}
