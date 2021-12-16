@@ -32,4 +32,11 @@ USERNAMEとPASSWORDのところのやつをそのまま.envの MAIL_USERNAMEとM
 アプリに戻って再度パスワードリセット操作をすると、そこのIn MyBoxの中にパスワードリセットのリンクが書かれたメールが届いています。
 
 #開発環境<br>
-virtualBox,vagrant(仮想環境),php,postgreSQL(データベース)
+virtualBox,vagrant(仮想環境),php,postgreSQL(データベース)<br>
+
+データベース名:todo
+ユーザーネーム:postgres
+パスワード:postgres
+
+postgreSQLの .env設定詳細画像はこちら↓<br>
+![スクリーンショット 2021-12-16 144842](https://user-images.githubusercontent.com/87398533/146315706-339edf97-3409-430e-813f-c4f4072acde2.png)<br>
